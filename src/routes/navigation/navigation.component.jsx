@@ -11,7 +11,7 @@ function Navigation() {
       <div className="navBar">
         <div className="sectionOne">
           <Link className="navLinks" to="allProds">
-            <h2 className="logo">iShopNow</h2>
+            <h2 className="logo">ecommerce</h2>
           </Link>
           <Link className="navLinks" to="allProds">
             Products
@@ -29,10 +29,9 @@ function Navigation() {
           <div className="navItem">
             <img
               className="avatar"
-              src="https://cdn-icons-png.flaticon.com/512/547/547420.png"
               alt=""
             />
-            <p className="name">Sagar Arora</p>
+            <p className="name">Satya Karri</p>
           </div>
         </div>
       </div>
